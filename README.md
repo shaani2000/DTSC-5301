@@ -1,5 +1,12 @@
+### **NOTE:** 
+Due to **interactive** nature of plotly plots, plots are not rendered in GIT preview of the notebook. Please refer to **pdf** file for complete analysis or the analysis can be replicated by rerunning the ipynb file locally
+
+  
+  
+  
 # DTSC-5301
 # Final Year Project Report
+
 
 Final project for DTSC 5301 where we are trying to explore on Energy consumption and its trend!!
 
